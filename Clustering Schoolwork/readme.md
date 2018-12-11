@@ -13,7 +13,7 @@
 
 鸢尾花数据集是向量的形式而非图的形式，可以通过高斯核来计算向量之间的相似度。
 
-![](https://github.com/m-L-0/18a-lidongliang--2016-449/blob/master/Clustering%20Schoolwork/image/%E9%AB%98%E6%96%AF%E6%A0%B8.png)
+![](https://github.com/m-L-0/18b-lidongliang--2016-449/blob/master/Clustering%20Schoolwork/image/%E9%AB%98%E6%96%AF%E6%A0%B8.png)
 
 ```python
 #文件——图谱数据预处理.ipynb
@@ -111,7 +111,7 @@ d=pd.DataFrame(X_transformed)
 d.to_csv('PCA-data.csv')
 ```
 
-![处理结果](https://github.com/m-L-0/18a-lidongliang--2016-449/blob/master/Clustering%20Schoolwork/image/PAC-iris.png)
+![处理结果](https://github.com/m-L-0/18b-lidongliang--2016-449/blob/master/Clustering%20Schoolwork/image/PAC-iris.png)
 
 通过可视化可以看出我们的分簇效果比较理想
 
@@ -189,7 +189,7 @@ for i,c in zip(range(3),color):
 plt.show()        
 ```
 
-![](https://github.com/m-L-0/18a-lidongliang--2016-449/blob/master/Clustering%20Schoolwork/image/%E8%81%9A%E7%B1%BB.png)
+![](https://github.com/m-L-0/18b-lidongliang--2016-449/blob/master/Clustering%20Schoolwork/image/%E8%81%9A%E7%B1%BB.png)
 
 通过可视化可以得知自己写的K-means的分簇是有效的，结果比较理想。
 
@@ -264,7 +264,7 @@ nx.draw_networkx_edges(G, pos, edgelist=edge3,
 plt.show()
 ```
 
-![](https://github.com/m-L-0/18a-lidongliang--2016-449/blob/master/Clustering%20Schoolwork/image/Figure_1.png)
+![](https://github.com/m-L-0/18b-lidongliang--2016-449/blob/master/Clustering%20Schoolwork/image/Figure_1.png)
 
 ## 
 
