@@ -50,7 +50,7 @@ T=pca.fit_transform(test)#这是降维后的测试集x，存储为pca-test-x.csv
 
 
 
-![](https://github.com/m-L-0/18b-lidongliang--2016-449/blob/master/%E9%AB%98%E5%85%89%E8%B0%B1%E5%88%86%E7%B1%BB/image/PCA.png)
+![](https://github.com/m-L-0/18b-lidongliang-16-449/blob/master/%E9%AB%98%E5%85%89%E8%B0%B1%E5%88%86%E7%B1%BB/image/PCA.png)
 
 ## step3.训练模型
 

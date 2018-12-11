@@ -100,7 +100,7 @@ plt.locator_params('y',nbins=20)
 plt.show()
 ```
 
-![](https://github.com/m-L-0/18b-lidongliang--2016-449/blob/master/Tensorflow%20Schoolwork/image/Figure_1.png)
+![](https://github.com/m-L-0/18b-lidongliang-16-449/blob/master/Tensorflow%20Schoolwork/image/Figure_1.png)
 
 ## 结论
 
